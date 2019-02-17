@@ -1,2 +1,3 @@
 # python
-python files
+# pratice on:
+# https://www.practicepython.org/
